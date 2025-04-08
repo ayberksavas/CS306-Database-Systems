@@ -21,3 +21,5 @@ I am currently working on a **Database Application Project for an Online Watch S
 - Implementing the system using **SQL** to handle data insertion, update, and querying
 - Enforcing **data integrity rules** such as primary keys, foreign keys, and check constraints
 - Planning future integration with a front-end interface
+
+<pre> ```sql CREATE TABLE Watches ( WatchID INT PRIMARY KEY, Brand VARCHAR(50), Price DECIMAL(10, 2) ); ``` </pre>
